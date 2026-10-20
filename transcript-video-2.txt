@@ -1,0 +1,30 @@
+0:011 secondHello, I'm Peter Meixner. This video explains how my Intel application produces its financial results and how those results are checked. This
+0:1010 secondsapplication uses Python standard library.
+0:1313 secondsThe input files stores historical data, market information, and forecast assumptions. The model builds financial statements and valuation while the
+0:2222 secondsvalidation files checks the calculations. The finished report lets a reviewer inspect the results without running code.
+0:3838 secondsThe model starts with the June 27th filing balance sheet. The initial state function checks that balance sheet and
+0:4545 secondsapplies the disclosed treatment of the escrow shares and derivative. So the claim is counted once.
+0:5353 secondsThe step function builds each forecast period. Revenue and gross margin determine gross profit.
+1:001 minuteResearch and development and administrative expenses are modeled separately. Receivables, inventory, and payables follow operating assumptions.
+1:071 minute, 7 secondsProperty, plant, and equipment rolls forward with investment and depreciation. Earnings and distributions flow into equity. These connections let the model test whether the statements balance.
+1:211 minute, 21 secondsThe model estimates a bridge from the June filing to the September valuation date.
+1:271 minute, 27 secondsThe September balance sheet is an estimate, not a reported statement. It then values the remaining part of 2026 and five annual forecast through 2031.
+1:361 minute, 36 secondsFree cash flow to the firm reflects operating profit after tax plus depreciation and amortization, less capital spending and working capital
+1:441 minute, 44 secondsinvestment. Debt repayments and investment sales affect financing and liquidity. They do not improve operating free cash flow.
+1:551 minute, 55 secondsThe discounted cash flow calculation retains negative forecast cash flows. It requires the discount rate to exceed terminal growth, positive shares, and
+2:032 minutes, 3 secondsvalid numerical inputs. The model adds discounted forecast cash flows and terminal value to calculate enterprise
+2:102 minutes, 10 secondsvalue. It then adjusts for excess cash, investments, debt, minority interest, and other claims to reach common equity value. The share count is a diluted
+2:192 minutes, 19 secondsequivalent estimate. The values of minority interests and others claims remain assumptions that need further diligence.
+2:312 minutes, 31 secondsSo, the validation run checks the model against 12 published week three training answers. The training value of
+2:382 minutes, 38 secondsapproximately $2750 per share is a test result, not Intel's
+2:452 minutes, 45 secondsvaluation. Other checks cover source definitions. Balance financial statements and the enterprise equity calculation. The Sensity test raises the discount rate by 1 percentage point.
+2:552 minutes, 55 secondsBase value falls from approximately $449 to $312 per share, which is the expected direction. These are AI assisted technical checks.
+3:093 minutes, 9 secondsSo this is a deliberate failure test. It adds $100 million of cash without a supporting cash flow reliability. The model rejects the resulting balance
+3:163 minutes, 16 secondssheet mismatch before valuation. That failure is the intended result.
+3:203 minutes, 20 secondsUnsupported cash should not silently increase the valuation.
+3:263 minutes, 26 secondsThat saved uh the saved cold run log shows that the application ran in a fresh environment and isolated copy without additional packages. It produced
+3:343 minutes, 34 secondsidentical financial results. The readme explains how to rep reproduce the model validation and cold run checks.
+3:413 minutes, 41 secondsAnd this is the resulting report. A major remaining
+3:483 minutes, 48 secondslimitation is that correct arithmetic does not prove the forecast assumptions are right. Capital spending, margin recovery, and the claims against uh the
+3:573 minutes, 57 secondsclaims deducted from enterprise value still require judgment and supporting evidence. Thank you.
+

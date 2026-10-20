@@ -1,0 +1,13 @@
+item,required,location_or_url,title,duration_or_as_of,timestamp_index,access_checked,frozen_or_commit_id,notes
+Research-Evolution.pdf,yes,Research-Evolution.pdf,Original preserved plus Edition B,2026-09-01,,Local file generated,,Receipt unavailable; instructor clarification disclosed
+Repository,yes,,Intel Corporate Finance Application,,,NOT VERIFIED,,Student repository URL needed
+Visible executed output,yes,../output/report.html,Intel committee evidence,2026-09-01,,Local file generated,,Offline HTML and results.json
+Decision memo or deck,yes,Decision-Memo.pdf,Intel: Watch / defer,2026-09-01,,Local file generated,,
+Validation-and-AI-Use.pdf,yes,Validation-and-AI-Use.pdf,Frozen validation and AI-use record,2026-10-19T20:44:52.618060+00:00,,Local file generated,,Human-only evidence status disclosed
+Video 1,yes,,Intel Video 1,,,NOT VERIFIED,,"Student recording, URL and actual timing needed"
+Transcript Video 1,yes,transcript-video-1.txt,Corrected actual transcript 1,,,NOT PROVIDED,,Preparation guides are not transcripts
+Video 2,yes,,Intel Video 2,,,NOT VERIFIED,,"Student recording, URL and actual timing needed"
+Transcript Video 2,yes,transcript-video-2.txt,Corrected actual transcript 2,,,NOT PROVIDED,,Preparation guides are not transcripts
+Video 3,yes,,Intel Video 3,,,NOT VERIFIED,,"Student recording, URL and actual timing needed"
+Transcript Video 3,yes,transcript-video-3.txt,Corrected actual transcript 3,,,NOT PROVIDED,,Preparation guides are not transcripts
+Optional deployed output,no,,,,,Not used,,Locally runnable output supplied

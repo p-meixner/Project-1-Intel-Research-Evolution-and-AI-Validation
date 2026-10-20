@@ -1,0 +1,35 @@
+Hello, I am Peter Meixner. My recommendation to the investment committee is to keep Intel on watch and hold no position at the September 1st, 2026 closing price of $88.97.
+0:1212 secondsThe model produces a conditional equity value range of approximately 0 to $15 per share with a base value around $4.50.
+0:2222 secondsThis is not a precise price target. It shows that the recovery assumptions in this model do not support the observed market price and important valuation questions remain unresolved.
+0:3636 secondsThe base case assumes an operating recovery second quarter revenue was approximately 16.1
+0:4444 secondsbillion with an operating income of approximately 1.8 billion.
+0:5252 secondsThird quarter guidance provided a revenue midpoint of $16.3 billion and 41% gross margin.
+1:011 minute, 1 secondThe base case repeats that revenue midpoint for the fourth quarter. That fourth quarter estimate is a a modeling
+1:081 minute, 8 secondsassumption, not company guidance. Over the forecast, revenue growth slows to toward 3%, gross margin reaches 46% and
+1:171 minute, 17 secondsannual cash capital spending remains $18 billion. Those assumptions need continued testing.
+1:261 minute, 26 secondsHere I'm switching to the downside case.
+1:281 minute, 28 secondsThe scenario combines weaker demand, slower margin recovery, and more cash tied up in inventory. The accounting statements still balance, but available
+1:361 minute, 36 secondsliquidity does not cover the funding requirement. The maximum funding gap is approximately $5.2 billion. That distinction matters. Balance statements
+1:451 minute, 45 secondsdo not prove a business can fund its plan. Under these condition conditions, I would not initiate a position without credible financing and revised operating economics.
+1:561 minute, 56 secondsIn the base case, enterprise value is approximately
+2:022 minutes, 2 seconds62.4 billion. Net claims reduce that by approximately 38.8 billion, leaving 23.6
+2:102 minutes, 10 secondsbillion for common equity. The treatment of minority interest, investments, and dilution requires particular care.
+2:162 minutes, 16 secondsApproximately 76% of base enterprise value comes from the terminal component.
+2:212 minutes, 21 secondsThe sensitivity table shows how valuation changes with a discount rate and long-term growth assumption. The the
+2:292 minutes, 29 secondsdependence is a reason to avoid relying on one precise estimate.
+2:372 minutes, 37 secondsThe reverse DCF asks what would be the required to support the observed share price. Holding the explicit forecast and
+2:442 minutes, 44 secondsvaluation bridge fixed, terminal year-f free cash flow would need to reach appro approximately $79.8 billion compared
+2:522 minutes, 52 secondswith about 7.7 billion in the case in the base case with revenue and reinvestment unchanged that would require an operating margin above 100%.
+3:013 minutes, 1 secondThat particular explanation is economically infeasible. It does not rule out different future business scale or strategic opportunities. It ident it
+3:103 minutes, 10 secondsidentifies what the current assumptions cannot explain.
+3:143 minutes, 14 secondsAMD and Nvidia provide useful market references, but their business models differ materially from Intel's manufacturing heavy economics. Intel's
+3:223 minutes, 22 secondsnegative annual earnings make its price to earnings ratio unusable for this comparison. The sales multiples produce
+3:293 minutes, 29 secondsmuch higher mechanical valuation references, but they do not capture Intel's manufacturing cash requirements.
+3:353 minutes, 35 secondsI would not average those results with the DCF. The disagreement highlights differences that require explanation.
+3:423 minutes, 42 secondsI would reconsider initiation after a price discount to a defensible base valuation. Two quarters of gross margin
+3:493 minutes, 49 secondsat or above 41% positive cash generation after all equipment payments and a reconciled claims and diluted share
+3:573 minutes, 57 secondscalculation. Persistent margins below 38% unfunded commitments or liquidity below $5 million would strengthen the case against initiation. My request to
+4:064 minutes, 6 secondsthe committee to the committee is to maintain a watch position meaning monitoring without the without owning the stock and prioritize diligence on
+4:154 minutes, 15 secondsmanufacturing cash needs, margin recovery and equity claims. I am not requesting trade authorization.
+4:214 minutes, 21 secondsThank you.
+
